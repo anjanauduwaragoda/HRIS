@@ -1,0 +1,137 @@
+﻿body
+{
+    /*background-image:url('bg.jpg');     background-repeat:repeat-x; */
+    background-color: #3F96CB;
+    font-size: .80em;
+    font-family: "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+}
+
+.MasterFooter
+{
+    font-family: "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+    table-layout: fixed;
+    height: 25px;
+    width: 100%;
+}
+
+.MasterFooterTD
+{
+    font-family: "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+    table-layout: fixed;
+    height: 25px;
+    width: 100%;
+}
+.MasterHeading
+{
+    font-family: "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+    table-layout: fixed;
+    height: 30px;
+    width: 100%;
+}
+
+.MasterHeadingLeft
+{
+    font-family: "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+    table-layout: fixed;
+    height: 30px;
+    width: 200;
+}
+
+.MasterHeadingRight
+{
+    font-family: "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+    table-layout: fixed;
+    height: 30px;
+    width: auto;
+}
+.MasterHeadingRightLogout
+{
+    font-family: "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+    table-layout: fixed;
+    padding: 5px 5px 5px 5px;
+    height: 30px;
+    width: auto;
+}
+.MasterHeadingRightLogoutTD
+{
+    font-family: "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+    table-layout: fixed;
+    height: 30px;
+    width: auto;
+}
+.MasterBodyMain
+{
+    font-family: "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+    table-layout: fixed;
+    padding: 10px 10px 10px 10px;
+    height: auto;
+    width: auto;
+}
+
+.MasterBodytree
+{
+    font-family: "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+    table-layout: fixed;
+    padding: 10px 10px 10px 10px;
+    height: auto;
+    width: 200px;
+}
+
+.MasterBodyMainDetail
+{
+    font-family: "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+    table-layout: fixed;
+    background-color: #FFFFFF;
+    padding: 10px 10px 10px 10px;
+    height: 700px;
+    width: 880px;
+    border-radius: 5px;
+}
+
+.Masterh1
+{
+    font-size: 0.2em;
+    color: #666666;
+    font-variant: small-caps;
+    text-transform: none;
+    font-weight: 200;
+    margin-bottom: 0px;
+}
+.MasterstyledivTree
+{
+    width: 200px;
+    height: auto;
+    overflow: auto;
+}
+.sticky_span_Reminder
+{
+    background-color: #0099CC;
+    border-color: #000000;
+    border-left: 1px solid #000000;
+    border-right: 1px solid #000000;
+    border-top: 1px solid #000000;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    -webkit-border-top-left-radius: 10px;
+    -webkit-border-top-right-radius: 10px;
+    -moz-border-radius-topleft: 10px;
+    -moz-border-radius-topright: 10px;
+    color: #FFFFFF;
+    float: right;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: -32px;
+    padding: 8px;
+    position: fixed;
+    right: 0;
+    top: 30%;
+    -webkit-transform: rotate(270deg);
+    -o-transform: rotate(270deg);
+    -moz-transform: rotate(270deg);
+    z-index: 4000;
+    cursor: pointer;
+}
+.sticky_span_Reminder:hover
+{
+    background-color: #003399;
+}

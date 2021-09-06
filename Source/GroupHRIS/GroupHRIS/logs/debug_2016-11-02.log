@@ -1,0 +1,302 @@
+2016-11-02 11:08:41.8480|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 11:08:41.9640|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 11:08:51.4135|DEBUG|GroupHRIS.TrainingAndDevelopment.frmRequestSearch|Page_Load():frmRequestSearch
+2016-11-02 14:36:26.8986|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 14:36:26.9636|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 14:41:35.9305|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 14:41:35.9705|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 14:43:44.6369|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 14:43:44.6989|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 14:53:56.3636|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 14:53:57.9236|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 14:54:01.0592|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 14:54:05.1932|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 14:54:07.0964|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 14:54:09.4364|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 14:54:11.0120|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 14:54:14.9276|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 14:55:01.6185|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 14:55:03.8025|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 14:55:10.0425|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 14:55:13.1157|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 14:59:17.3960|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 14:59:17.4360|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 14:59:25.1405|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 14:59:28.6107|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 14:59:34.4070|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 14:59:37.2371|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 14:59:39.7143|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 14:59:41.0584|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 14:59:43.1005|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 14:59:44.9956|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 15:07:58.8045|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 15:07:58.8513|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 15:08:43.2333|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 15:08:43.2489|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 15:08:53.3734|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 15:08:57.6634|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 15:08:59.5042|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 16:05:34.6964|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 16:05:34.6964|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|Session Expired
+2016-11-02 16:06:33.1197|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 16:06:33.1677|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 18:44:03.9979|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 18:44:04.0449|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 18:44:07.8031|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 18:44:07.8031|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 18:44:24.1790|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 18:44:24.1790|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2016-11-02 18:44:24.2231|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2016-11-02 18:44:26.4982|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 18:44:31.8555|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 18:44:34.1766|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 18:47:40.0987|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 18:47:49.3092|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 18:48:14.3857|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 18:48:14.3857|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2016-11-02 18:48:14.4157|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2016-11-02 18:48:15.7518|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 18:48:19.9480|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 18:48:21.6001|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 18:48:23.5082|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 18:48:50.9778|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 18:48:50.9778|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2016-11-02 18:48:50.9968|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2016-11-02 18:53:34.1311|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 18:53:34.1881|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 18:53:41.0095|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 18:53:41.0095|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 18:53:46.3478|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 18:53:46.3478|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 18:53:49.9740|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 18:53:49.9740|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 18:54:08.1301|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 18:54:08.1301|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 18:54:12.4943|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 18:54:12.5273|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2016-11-02 18:54:12.6113|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2016-11-02 18:54:14.2164|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 18:54:19.1947|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 18:54:21.8629|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 18:54:56.9249|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 18:54:56.9249|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 18:58:08.0746|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 18:58:08.1136|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 18:58:17.6631|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 18:58:17.6631|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2016-11-02 18:58:17.7111|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2016-11-02 18:58:19.4292|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 18:58:25.2115|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 18:58:27.4387|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:01:10.2568|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:01:10.3128|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 19:01:33.8291|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:01:33.8321|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2016-11-02 19:01:33.9131|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2016-11-02 19:01:35.4922|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:01:41.3055|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:01:43.6247|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:02:01.8077|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:03:47.4764|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:03:50.7866|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 19:04:00.2452|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:04:00.2452|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2016-11-02 19:04:00.2742|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2016-11-02 19:04:02.9133|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:04:08.6036|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:04:10.5108|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:04:55.6273|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:06:35.7046|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:06:40.4259|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 19:06:49.8614|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:06:49.8614|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2016-11-02 19:06:49.9524|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2016-11-02 19:06:53.6526|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:06:58.7519|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:07:00.4580|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:07:12.3997|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:07:12.3997|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2016-11-02 19:07:12.4467|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2016-11-02 19:07:14.8598|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:07:14.8598|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|ddlCompany_SelectedIndexChanged()
+2016-11-02 19:07:14.8688|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDepartment() - companyId:CP53
+2016-11-02 19:07:14.9128|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDesignations() - companyID:CP53
+2016-11-02 19:07:15.8199|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:07:17.4920|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:07:23.4533|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:07:29.7837|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:07:29.7837|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|ddlCompany_SelectedIndexChanged()
+2016-11-02 19:07:29.7837|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDepartment() - companyId:CP23
+2016-11-02 19:07:29.8557|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDesignations() - companyID:CP23
+2016-11-02 19:07:30.9898|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:07:33.0799|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:07:34.5810|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:07:55.8230|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:08:01.8630|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillDepartment() - companyId:CP17
+2016-11-02 19:08:49.2331|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:08:49.2331|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 19:22:54.3577|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:22:54.3957|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 19:23:09.8695|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:23:09.8695|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2016-11-02 19:23:09.9076|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2016-11-02 19:23:12.0557|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:23:18.4830|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:23:20.0371|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:23:26.5405|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:23:26.5405|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2016-11-02 19:23:26.5945|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2016-11-02 19:23:28.9586|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:23:33.4849|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:23:49.4968|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:23:52.1850|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:23:56.9362|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:23:56.9502|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillDepartment() - companyId:CP25
+2016-11-02 19:24:25.1519|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:24:25.1519|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|ddlDepartment_SelectedIndexChanged()
+2016-11-02 19:24:25.1639|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillDivisions() - departmentId:DP00026
+2016-11-02 19:24:34.9594|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:24:53.5265|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:24:53.5265|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2016-11-02 19:24:53.6195|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2016-11-02 19:24:56.5126|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:24:56.5166|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|ddlCompany_SelectedIndexChanged()
+2016-11-02 19:24:56.5357|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDepartment() - companyId:CP25
+2016-11-02 19:24:56.6237|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDesignations() - companyID:CP25
+2016-11-02 19:24:57.9177|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:24:59.9098|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:25:01.8440|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:25:23.1482|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:25:23.1482|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|ddlDepartment_SelectedIndexChanged()
+2016-11-02 19:25:23.1482|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillDivisions() - departmentId:DP00035
+2016-11-02 19:26:18.1675|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:26:18.1675|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|ddlDepartment_SelectedIndexChanged()
+2016-11-02 19:26:18.1675|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillDivisions() - departmentId:DP00026
+2016-11-02 19:26:20.7675|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:26:20.7675|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillDepartment() - companyId:CP27
+2016-11-02 19:26:24.8475|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:26:24.8475|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|ddlDepartment_SelectedIndexChanged()
+2016-11-02 19:26:24.8475|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillDivisions() - departmentId:DP00037
+2016-11-02 19:26:33.8375|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:26:33.8375|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2016-11-02 19:26:33.9075|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2016-11-02 19:26:37.9075|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:26:42.9875|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:26:45.0175|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:26:48.7975|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:26:48.7975|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2016-11-02 19:26:48.8575|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2016-11-02 19:26:51.3475|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:26:57.1475|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:26:58.7475|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:27:17.4276|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:27:17.4276|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillDepartment() - companyId:CP25
+2016-11-02 19:27:20.7876|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:27:20.7876|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|ddlDepartment_SelectedIndexChanged()
+2016-11-02 19:27:20.7876|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillDivisions() - departmentId:DP00026
+2016-11-02 19:28:39.0819|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:28:39.0819|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 19:28:58.4170|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:28:58.4170|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillDepartment() - companyId:CP17
+2016-11-02 19:29:01.7712|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:29:01.7712|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|ddlDepartment_SelectedIndexChanged()
+2016-11-02 19:29:01.7712|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillDivisions() - departmentId:DP00007
+2016-11-02 19:29:07.5765|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:29:27.8597|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:29:27.8597|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2016-11-02 19:29:27.9457|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2016-11-02 19:29:30.9599|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:29:35.5541|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:29:38.1243|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:29:44.8187|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:29:44.8207|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2016-11-02 19:29:44.9137|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2016-11-02 19:29:47.4108|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:29:52.4451|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:29:54.1302|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:30:12.1259|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:30:12.5159|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|btnSave_Click()
+2016-11-02 19:30:20.6759|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|btnSave_Click() -> Insert
+2016-11-02 19:32:22.7432|ERROR|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|Column count doesn't match value count at row 1
+2016-11-02 19:34:08.9264|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:34:09.2144|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|btnSave_Click()
+2016-11-02 19:34:14.9748|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|btnSave_Click() -> Insert
+2016-11-02 19:34:31.2507|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:34:31.6507|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|btnSave_Click()
+2016-11-02 19:34:33.8498|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|btnSave_Click() -> Insert
+2016-11-02 19:34:59.9003|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:40:10.1657|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:40:10.2017|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 19:40:21.9853|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:40:21.9913|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillDepartment() - companyId:CP25
+2016-11-02 19:40:24.1955|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:40:24.1955|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|ddlDepartment_SelectedIndexChanged()
+2016-11-02 19:40:24.1955|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillDivisions() - departmentId:DP00026
+2016-11-02 19:40:30.2028|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:41:05.0318|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:41:05.0318|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2016-11-02 19:41:05.1118|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2016-11-02 19:41:06.7619|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:41:11.1631|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:41:12.9132|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:41:15.5734|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:41:15.5734|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2016-11-02 19:41:15.7544|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2016-11-02 19:41:17.4595|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:41:22.0068|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:41:23.7669|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:41:35.3455|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:41:35.6355|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|btnSave_Click()
+2016-11-02 19:41:42.1555|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|btnSave_Click() -> Insert
+2016-11-02 19:47:31.6120|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:47:31.6550|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 19:47:41.5616|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:47:41.5616|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 19:47:51.1751|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:47:51.1811|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillDepartment() - companyId:CP27
+2016-11-02 19:47:53.3843|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:47:53.3843|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|ddlDepartment_SelectedIndexChanged()
+2016-11-02 19:47:53.3843|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillDivisions() - departmentId:DP00037
+2016-11-02 19:48:01.5247|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:48:21.7359|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:48:21.7359|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2016-11-02 19:48:21.8189|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2016-11-02 19:48:23.1440|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:48:27.8032|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:48:30.6094|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:48:34.5996|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:48:34.5996|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2016-11-02 19:48:34.7746|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2016-11-02 19:48:36.8117|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:48:41.8000|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:48:43.6291|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:49:10.1199|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:49:10.4599|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|btnSave_Click()
+2016-11-02 19:49:14.0199|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|btnSave_Click() -> Insert
+2016-11-02 19:53:43.9643|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:53:44.0033|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-02 19:53:52.5818|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:53:52.5818|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillDepartment() - companyId:CP27
+2016-11-02 19:53:54.6819|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:53:54.6819|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|ddlDepartment_SelectedIndexChanged()
+2016-11-02 19:53:54.6819|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillDivisions() - departmentId:DP00037
+2016-11-02 19:54:01.5373|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:54:27.7218|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:54:27.7218|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2016-11-02 19:54:27.7948|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2016-11-02 19:54:29.9589|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:54:34.6862|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:54:36.7083|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:54:40.2275|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:54:40.2275|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2016-11-02 19:54:40.2925|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2016-11-02 19:54:44.6487|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:54:44.6487|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|ddlCompany_SelectedIndexChanged()
+2016-11-02 19:54:44.6487|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDepartment() - companyId:CP16
+2016-11-02 19:54:44.7287|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDesignations() - companyID:CP16
+2016-11-02 19:54:45.5998|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:54:47.3639|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2016-11-02 19:55:07.2520|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-02 19:55:07.6881|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|btnSave_Click()
+2016-11-02 19:55:09.9011|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|btnSave_Click() -> Insert
+2016-11-02 19:55:41.3111|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load

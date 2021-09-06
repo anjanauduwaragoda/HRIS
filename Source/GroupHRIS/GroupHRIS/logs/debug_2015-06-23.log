@@ -1,0 +1,6 @@
+2015-06-23 13:51:31.4379|DEBUG|GroupHRIS.Employee.webFrmEmployee|IP:127.0.0.1webFrmEmployee : Page_Load
+2015-06-23 13:51:31.5779|DEBUG|GroupHRIS.Employee.webFrmEmployee|fillCompanies()
+2015-06-23 13:51:31.9959|DEBUG|GroupHRIS.Employee.webFrmEmployee|fillEmployeeStatus()
+2015-06-23 13:51:32.1129|DEBUG|GroupHRIS.Employee.webFrmEmployee|fillEmployeeType()
+2015-06-23 13:51:32.2340|DEBUG|GroupHRIS.Employee.webFrmEmployee|fillEmployeeRole()
+2015-06-23 13:51:32.3510|DEBUG|GroupHRIS.Employee.webFrmEmployee|fillEmployeeStatus()

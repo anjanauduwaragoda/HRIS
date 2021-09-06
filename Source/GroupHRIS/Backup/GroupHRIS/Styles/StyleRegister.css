@@ -1,0 +1,14 @@
+﻿.styleRegMainTb
+{
+    width: 100%;
+}
+.styleRegMainTbTDLeft
+{
+    width: 15%;
+    text-align :right;
+}
+.styleRegMainTbTDMiddle
+{
+    width: 40%;
+    text-align :left ;
+}

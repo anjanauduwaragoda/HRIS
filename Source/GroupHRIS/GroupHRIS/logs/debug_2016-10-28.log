@@ -1,0 +1,12 @@
+2016-10-28 18:06:30.3157|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-10-28 18:06:30.4767|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-10-28 18:06:35.6420|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-10-28 18:06:35.6420|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-10-28 18:06:54.5571|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-10-28 18:06:54.5571|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillDepartment() - companyId:CP25
+2016-10-28 18:17:32.4428|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-10-28 18:17:32.5078|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-10-28 18:17:54.3511|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-10-28 18:41:35.4677|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-10-28 18:41:35.4887|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-10-28 18:42:02.9083|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load

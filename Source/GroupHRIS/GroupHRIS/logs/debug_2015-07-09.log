@@ -1,0 +1,140 @@
+2015-07-09 08:56:53.1220|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 08:57:24.7208|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 08:58:14.6526|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 08:59:04.8407|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:00:47.3722|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:01:29.0696|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:01:47.0047|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:02:04.3101|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:03:21.6075|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:08:35.0941|DEBUG|GroupHRIS.EmployeeLeave.webFrmEmployeeLeaveSheet|IP:127.0.0.1webFrmEmployeeLeaveSheet : Page_Load
+2015-07-09 09:08:35.1011|DEBUG|GroupHRIS.EmployeeLeave.webFrmEmployeeLeaveSheet|webFrmEmployeeLeaveSheet : createLeaveBucket()
+2015-07-09 09:08:35.1011|DEBUG|GroupHRIS.EmployeeLeave.webFrmEmployeeLeaveSheet|webFrmEmployeeLeaveSheet : fillHours()
+2015-07-09 09:08:35.1011|DEBUG|GroupHRIS.EmployeeLeave.webFrmEmployeeLeaveSheet|webFrmEmployeeLeaveSheet : fillMinutes()
+2015-07-09 09:08:35.1011|DEBUG|GroupHRIS.EmployeeLeave.webFrmEmployeeLeaveSheet|webFrmEmployeeLeaveSheet : fillHours()
+2015-07-09 09:08:35.1011|DEBUG|GroupHRIS.EmployeeLeave.webFrmEmployeeLeaveSheet|webFrmEmployeeLeaveSheet : fillMinutes()
+2015-07-09 09:08:53.5302|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:09:37.1107|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:15:38.0527|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:15:46.3987|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:15:46.3987|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-07-09 09:15:46.5079|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-07-09 09:15:59.5954|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:16:05.1958|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:16:05.1958|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-07-09 09:16:05.3206|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-07-09 09:16:06.6154|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:16:07.9726|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:16:57.2761|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:17:00.3181|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:17:00.3181|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-07-09 09:17:00.4429|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-07-09 09:17:02.1433|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:17:07.1977|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:21:05.1604|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:21:08.9716|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:21:16.0000|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:21:16.0000|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-07-09 09:21:16.1190|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-07-09 09:21:17.8281|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:21:19.7432|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:48:00.1171|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:48:04.5373|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:48:04.5373|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-07-09 09:48:04.6483|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-07-09 09:48:05.9514|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:48:07.2185|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:51:06.7066|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:51:11.5599|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:51:11.5599|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-07-09 09:51:11.6669|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-07-09 09:51:13.2990|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:51:14.7121|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:51:45.4608|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:51:56.6265|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:52:10.4452|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:52:17.3066|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:52:30.7430|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:54:46.9851|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:55:33.3707|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:55:57.3411|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:56:18.4434|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:56:22.8426|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:56:22.8426|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-07-09 09:56:23.6226|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-07-09 09:56:40.0807|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:56:54.0583|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:58:20.9036|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:58:23.6492|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:58:23.6492|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-07-09 09:58:23.7584|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-07-09 09:58:25.3497|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:58:27.2217|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:58:28.1109|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:58:40.8093|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 09:58:43.3521|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:58:43.3521|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-07-09 09:58:43.4613|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-07-09 09:58:45.1305|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:58:47.3457|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 09:58:48.2817|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 10:01:58.6803|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 10:02:02.4565|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 10:02:02.4565|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-07-09 10:02:02.5725|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-07-09 10:02:03.9966|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 10:02:05.7017|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 10:17:12.4781|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 10:17:29.5101|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 10:17:44.7740|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 10:18:13.8347|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 10:18:18.7769|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-09 10:18:18.7769|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-07-09 10:18:18.9039|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-07-09 10:47:10.6564|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 10:48:03.1574|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 11:51:25.4457|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 11:54:28.6738|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 11:55:09.8872|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 12:28:33.7820|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 13:04:51.9048|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 13:06:11.7226|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 13:07:53.1112|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 13:11:22.5320|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 13:13:56.8138|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 13:14:25.3785|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 13:39:22.8238|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 13:39:45.2241|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 13:40:32.8538|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 13:41:16.4895|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 13:44:52.4166|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 13:46:01.7389|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 13:49:39.0057|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 15:38:58.5877|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 15:39:45.9224|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 15:41:39.5935|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 15:43:41.9725|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 15:43:48.6199|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 15:55:22.6931|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 16:06:58.3877|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 16:11:16.0193|DEBUG|GroupHRIS.Attendance.webFrmAttendanceUploading|IP:127.0.0.1webFrmEmployeeLeaveSheet : Page_Load
+2015-07-09 16:11:16.0303|DEBUG|GroupHRIS.Attendance.webFrmAttendanceUploading|fillCompanies() -> all companies
+2015-07-09 16:11:38.2396|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 16:57:00.0080|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 16:57:42.2994|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 16:59:39.2521|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 17:07:42.5396|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 17:16:29.3995|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 17:18:02.7006|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 17:20:48.4902|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 17:21:39.2951|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 17:22:56.0647|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 17:24:10.7950|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 17:24:15.4913|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 17:26:08.6337|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 17:27:28.8705|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 17:29:45.6662|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 17:31:56.3760|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 17:33:49.9549|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 17:34:32.4243|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-09 17:38:18.4574|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->

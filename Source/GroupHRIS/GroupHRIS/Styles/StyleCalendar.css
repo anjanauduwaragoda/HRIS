@@ -1,0 +1,36 @@
+﻿.styleMainTb
+{
+    width: 100%;
+}
+.styleMainTbTDLeft
+{
+    text-align :right;
+    width: 25%;
+}
+.styleMainTbTDMiddle
+{
+    width: 25%;
+    text-align :left ;
+}
+.styleMainTbTDRight
+{
+    width: 20%;
+    text-align :left ;
+}
+.loading
+{
+    font-family: Arial;
+    font-size: 10pt;
+    border: 3px solid #00CC00;
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+    width: 200px;
+    height: 80px;
+    display: none;
+    position: fixed;
+    text-align:right ;
+    background-color: White;
+    z-index: 999;
+    background-image:url('../Images/Common/processing.gif');
+    background-repeat:no-repeat;
+} 

@@ -1,0 +1,23 @@
+﻿body
+{
+    background-image: url('/Images/HRISMain/popupbg.png');
+    background-repeat: repeat-x;
+    font-size: .80em;
+    font-family: "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+}
+
+.reportLeftTD
+{
+    text-align: right;
+    width: 30%;
+    height: 20px;
+    table-layout: fixed;
+}
+
+.reportRightTD
+{
+    text-align: left;
+    width: 30%;
+    height: 20px;
+    table-layout: fixed;
+}

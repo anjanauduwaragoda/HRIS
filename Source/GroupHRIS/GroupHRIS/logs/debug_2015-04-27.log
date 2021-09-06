@@ -1,0 +1,10 @@
+2015-04-27 08:40:50.7983|DEBUG|GroupHRIS.Employee.webFrmEmployeeBankAccount|IP:127.0.0.1webFrmEmployeeBankAccount Page_Load
+2015-04-27 08:40:50.8973|DEBUG|GroupHRIS.Employee.webFrmEmployeeBankAccount|fillBanks()
+2015-04-27 15:37:05.7241|DEBUG|GroupHRIS.Salary.WebFrmSalary|IP:127.0.0.1WebFrmSalary : Page_Load
+2015-04-27 15:37:05.7865|DEBUG|GroupHRIS.Salary.WebFrmSalary|fillDropDown()
+2015-04-27 15:37:14.2729|DEBUG|GroupHRIS.Employee.webFrmEmployee|IP:127.0.0.1webFrmEmployee : Page_Load
+2015-04-27 15:37:14.2729|DEBUG|GroupHRIS.Employee.webFrmEmployee|fillCompanies()
+2015-04-27 15:37:14.2885|DEBUG|GroupHRIS.Employee.webFrmEmployee|fillEmployeeStatus()
+2015-04-27 15:37:14.3041|DEBUG|GroupHRIS.Employee.webFrmEmployee|fillEmployeeType()
+2015-04-27 15:37:14.3041|DEBUG|GroupHRIS.Employee.webFrmEmployee|fillEmployeeRole()
+2015-04-27 15:37:14.3197|DEBUG|GroupHRIS.Employee.webFrmEmployee|fillEmployeeStatus()

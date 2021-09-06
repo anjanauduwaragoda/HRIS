@@ -1,0 +1,31 @@
+﻿body
+{
+    font-size: .80em;
+    font-family: "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+    height: 91px;
+}
+.ProfileMainTable
+{
+    width: 100%;
+    table-layout: fixed;
+    height: 30px;
+}
+.ProfileMainTableTDRight
+{
+    width: 20%;
+    table-layout: fixed;
+    text-align:right;
+}
+.ProfileMainTableTDLeft
+{
+    width: 30%;
+    table-layout: fixed;
+    text-align:left;
+}
+.ProfileMainTableTDCenter
+{
+    width: 30%;
+    table-layout: fixed;
+    text-align:center;
+    
+}

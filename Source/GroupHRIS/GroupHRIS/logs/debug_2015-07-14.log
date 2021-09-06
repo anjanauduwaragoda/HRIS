@@ -1,0 +1,14 @@
+2015-07-14 07:50:59.2800|DEBUG|GroupHRIS.EmployeeProfile.EmployeeOnlineLeave|IP:127.0.0.1EmployeeOnlineLeave : Page_Load
+2015-07-14 07:50:59.2880|DEBUG|GroupHRIS.EmployeeProfile.EmployeeOnlineLeave|EmployeeOnlineLeave : createLeaveBucket()
+2015-07-14 07:51:00.5441|DEBUG|GroupHRIS.EmployeeProfile.EmployeeOnlineLeave|EmployeeOnlineLeave : fillHistory()
+2015-07-14 07:51:37.7369|DEBUG|GroupHRIS.EmployeeProfile.EmployeeOnlineLeave|IP:127.0.0.1EmployeeOnlineLeave : Page_Load
+2015-07-14 07:51:37.7369|DEBUG|GroupHRIS.EmployeeProfile.EmployeeOnlineLeave|EmployeeOnlineLeave : clearSessionTables()
+2015-07-14 07:51:37.7369|DEBUG|GroupHRIS.EmployeeProfile.EmployeeOnlineLeave|EmployeeOnlineLeave : fillHistory()
+2015-07-14 11:44:45.1690|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-07-14 11:45:04.4751|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-14 11:45:04.4751|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-07-14 11:45:05.0192|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-07-14 11:45:06.7393|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-14 11:45:09.0274|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-14 11:45:11.1235|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-07-14 12:10:05.1729|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->

@@ -1,0 +1,11 @@
+2016-11-16 13:07:03.8236|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTrainingRequstApprove|IP:::1WebFrmTrainingRequstApprove : Page_Load
+2016-11-16 13:07:10.1669|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTrainingRequstApprove|IP:::1WebFrmTrainingRequstApprove : Page_Load
+2016-11-16 13:07:10.5120|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTrainingRequstApprove|WebFrmTrainingRequstApprove : grdTrainingRequest_RowCommand
+2016-11-16 13:07:26.6609|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-16 13:07:26.6609|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies()
+2016-11-16 13:07:41.5117|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillDepartment() - companyId:CP17
+2016-11-16 13:07:41.5677|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillDivisions() - departmentId:DP00007
+2016-11-16 13:08:19.6947|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-16 13:08:36.8391|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2016-11-16 13:08:37.1199|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|btnSave_Click()
+2016-11-16 13:08:40.5051|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|btnSave_Click() -> update

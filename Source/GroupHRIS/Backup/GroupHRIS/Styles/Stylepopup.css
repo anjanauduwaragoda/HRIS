@@ -1,0 +1,115 @@
+﻿body
+{
+    background-image: url('/Images/HRISMain/popupbg.png');
+    background-repeat: repeat-x;
+    font-size: .80em;
+    font-family: "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+}
+
+.heismaininnerTableLeft
+{
+    width: 100%;
+    table-layout: fixed;
+}
+
+.heismaininnerTableRight
+{
+    width: 100%;
+    table-layout: fixed;
+}
+
+.heismaininnertLeft
+{
+    text-align: left;
+    width: 120px;
+    height: 20px;
+    table-layout: fixed;
+}
+
+.heismaininnertbright
+{
+    text-align: left;
+    width: 250px;
+    height: 20px;
+    table-layout: fixed;
+}
+
+.heismainpasswordleft
+{
+    width: 200px;
+}
+
+.heismainpasswordright
+{
+    width: 270px;
+}
+
+.EmpProfilePhotoTD
+{
+    width: 99%;
+    table-layout: fixed;
+    height: 40px;
+    text-align: center;
+    color: Black;
+    font-variant: small-caps;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.EmpProfilePhotoTB
+{
+    width: 100%;
+    table-layout: fixed;
+}
+.EmpProfilePhotoSUBTDLeft
+{
+    width: 20%;
+    table-layout: fixed;
+    text-align: right;
+    height: 25px;
+}
+.LeaveManageMainTB
+{
+    width:100%;
+    table-layout:fixed;
+    
+}
+
+.LeaveManageMainTDLeft
+{
+    width:30%;
+    text-align:right;
+}
+.LeaveManageMainTDRight
+{
+    width:30%;
+    text-align:left;
+}
+.EmployeeTransferTB
+{
+    border-color:Blue;
+    border-width:thin;
+    border-style:solid;
+    border-collapse:collapse;
+}
+.EmployeeTransferTBTitle
+{
+    font-variant: small-caps;
+    font-weight: bold;
+    border-color:Blue;
+    border-width:thin;
+    border-style:solid;
+    background-color:#DCDCDC;
+}
+a:link {
+    color: #000000;
+    text-decoration:none;
+}
+a:visited {
+    color: #000000;
+}
+a:hover {
+    color: #FFFFFF;
+}
+a:active {
+    color: #000000;
+}

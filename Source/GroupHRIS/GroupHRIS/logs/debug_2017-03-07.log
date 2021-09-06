@@ -1,0 +1,8 @@
+2017-03-07 16:34:17.2086|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTrainingRequstApprove|IP:::1WebFrmTrainingRequstApprove : Page_Load
+2017-03-07 16:34:22.3999|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTrainingRequstApprove|IP:::1WebFrmTrainingRequstApprove : Page_Load
+2017-03-07 16:34:22.6049|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTrainingRequstApprove|WebFrmTrainingRequstApprove : grdTrainingRequest_RowCommand
+2017-03-07 16:34:23.9349|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|IP:::1WebFrmTraingRequest : Page_Load
+2017-03-07 16:34:28.1212|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillDepartment() - companyId:CP73
+2017-03-07 16:34:32.7254|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillCompanies(CP17)
+2017-03-07 16:34:32.7645|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillDepartment() - companyId:CP17
+2017-03-07 16:34:32.7925|DEBUG|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|fillDivisions() - departmentId:DP00007

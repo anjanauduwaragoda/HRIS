@@ -1,0 +1,11 @@
+2015-04-28 11:47:30.2600|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-04-28 11:47:35.8723|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-04-28 11:47:35.8723|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-04-28 11:47:35.8853|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-04-28 11:47:46.8199|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->
+2015-04-28 11:47:49.0231|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-04-28 11:47:49.0231|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-04-28 11:47:49.2331|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-04-28 11:47:52.6553|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-04-28 11:47:54.1023|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-04-28 15:13:02.3311|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|AttendanceSummaryHandler : getCultryDate ->

@@ -1,0 +1,99 @@
+﻿.styleTable
+{
+   width: 490px;
+}
+.styleTableRow
+{
+    width: 490px;
+}
+.styleTableCell1
+{
+    width: 200px; 
+    text-align: right;
+}
+.styleTableCell2
+{
+    width:250px;
+    text-align: right;
+}
+.styleTableCell2TextBox
+{
+    width: 250px; 
+    text-align: left;
+}
+.styleTableCell3
+{
+    width: 20px;
+    text-align: right;
+}
+.styleTableCell4
+{
+    width: 20px;
+    text-align: right;
+}
+.styleTableCell5
+{
+    width: 30px;
+    text-align: left;
+}
+.styleTableCell6
+{
+    width: 150px;
+    text-align: left;
+}
+.styleTableCell7
+{
+    width: 100px;
+    text-align: left;
+}
+.styleTableCell8
+{
+    width: 100px;
+    text-align: left;
+}
+.styleButton
+{
+    width: 125px;
+}
+.styleDdl
+{
+    width: 256px;
+}
+.styleDdlSmall
+{
+    width: 128px;
+}
+.styleDdlhh
+{
+    width: 50px;
+}
+.styletxtSmall
+{
+    width: 140px;
+}
+.styleTabaleMain
+{
+    width: 100%;
+    table-layout: fixed;
+    text-align:center;
+}
+.LeaveOnlineTable
+{
+    width: 300px;
+    table-layout: fixed;
+    text-align:left;
+    border-width:2px;
+    border-style:solid;
+    border-color:Green;
+    font-variant:small-caps;
+    border-collapse: collapse;
+        
+}
+.LeaveOnlineTableTR
+{
+    border-width:1px;
+    border-style:solid;
+    border-color:lime;
+    font-variant:small-caps;
+    border-collapse: collapse;
+}

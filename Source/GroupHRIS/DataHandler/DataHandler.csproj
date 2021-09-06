@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B229B956-5285-4CBB-A480-FD4A6041F86B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DataHandler</RootNamespace>
+    <AssemblyName>DataHandler</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\MY SQL DLLs\HRIS_LIVE\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="NLog">
+      <HintPath>..\GroupHRIS\bin\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Attendance\AttendanceApproveReject.cs" />
+    <Compile Include="Attendance\AttendanceInAndOutDataHandler.cs" />
+    <Compile Include="Attendance\AttendanceReconcileDataHandler.cs" />
+    <Compile Include="Attendance\AttendanceSummaryHandler.cs" />
+    <Compile Include="EmployeeLeave\EmployeeLeaveSchemeDataHandler.cs" />
+    <Compile Include="EmployeeLeave\LeaveScheduleDataHandler.cs" />
+    <Compile Include="Employee\EmployeeBankAccountDataHandler.cs" />
+    <Compile Include="Employee\EmployeeDataHandler.cs" />
+    <Compile Include="Employee\EmployeeDependentDataHandler.cs" />
+    <Compile Include="Employee\EmployeeLeaveHandler.cs" />
+    <Compile Include="Employee\EmployeeProfileHandler.cs" />
+    <Compile Include="Employee\EmployeeSearchDataHandler.cs" />
+    <Compile Include="Employee\EmployeeSecondmentDataHandler.cs" />
+    <Compile Include="Employee\EmployeeTransferDataHandler.cs" />
+    <Compile Include="Employee\HigherEducationDataHandler.cs" />
+    <Compile Include="Employee\PrevExperienceDataHandler.cs" />
+    <Compile Include="Employee\PreviousExperienceVerificationDataHandler.cs" />
+    <Compile Include="Employee\SecondaryEducationDataHandler.cs" />
+    <Compile Include="HRISAlerts\HRISAlertsDataHandler.cs" />
+    <Compile Include="MetaData\BankBranchDataHandler.cs" />
+    <Compile Include="MetaData\BankDataHandler.cs" />
+    <Compile Include="MetaData\BranchCenterDataHandler.cs" />
+    <Compile Include="MetaData\BranchManagerDataHandler.cs" />
+    <Compile Include="MetaData\CalendarDataHandler.cs" />
+    <Compile Include="MetaData\CompanyLocationDataHandler.cs" />
+    <Compile Include="MetaData\CostProfitCenterDataHandler.cs" />
+    <Compile Include="MetaData\DepartmentHeadDataHandler.cs" />
+    <Compile Include="MetaData\DesignationEmployeeDataHandler.cs" />
+    <Compile Include="MetaData\DivisionDataHandler.cs" />
+    <Compile Include="Attendance\AttendanceDataHandler.cs" />
+    <Compile Include="MetaData\DepartmentDataHandler.cs" />
+    <Compile Include="Employee\DesignationDataHandler.cs" />
+    <Compile Include="MetaData\EmployeeRoleDataHandler.cs" />
+    <Compile Include="MetaData\EmployeeStatusDataHandler.cs" />
+    <Compile Include="MetaData\EmployeeTypeDataHandler.cs" />
+    <Compile Include="MetaData\LeaveSchemeDataHandler.cs" />
+    <Compile Include="MetaData\LeaveSchemeItemsDataHandler.cs" />
+    <Compile Include="MetaData\LeaveTypeDataHandler.cs" />
+    <Compile Include="MetaData\MachineLocationDataHandler.cs" />
+    <Compile Include="MetaData\PropertyCategoryDataHandler.cs" />
+    <Compile Include="MetaData\SalaryComponentDataHandler.cs" />
+    <Compile Include="Payroll\CategoryDataHandler.cs" />
+    <Compile Include="Payroll\CompanyOTCategoryDataHandler.cs" />
+    <Compile Include="Payroll\CompanyRoleDataHandler.cs" />
+    <Compile Include="Payroll\CompanySubCategoryTypeDataHandler.cs" />
+    <Compile Include="Payroll\InsertProcedure.cs" />
+    <Compile Include="Payroll\MeargeCompanyDataHandler.cs" />
+    <Compile Include="Payroll\OtherTransactionsDataHandler.cs" />
+    <Compile Include="Payroll\OvertimeProcessDataHandler.cs" />
+    <Compile Include="Payroll\PayrollDataHandler.cs" />
+    <Compile Include="Payroll\PayrollTransactionDataHandler.cs" />
+    <Compile Include="Payroll\ProcessDataHandler.cs" />
+    <Compile Include="Payroll\SubCategoryDataHandler.cs" />
+    <Compile Include="PerformanceManagement\AssessmentGroupDataHandler.cs" />
+    <Compile Include="PerformanceManagement\AssessmentDataHandler.cs" />
+    <Compile Include="PerformanceManagement\AssessmentPurposeDataHandler.cs" />
+    <Compile Include="PerformanceManagement\AssessmentTypeDataHandler.cs" />
+    <Compile Include="PerformanceManagement\CEOCompetencyAssessmentDataHandler.cs" />
+    <Compile Include="PerformanceManagement\CEODashboadDataHandler.cs" />
+    <Compile Include="PerformanceManagement\CloseAssessmentDataHandler.cs" />
+    <Compile Include="PerformanceManagement\CompetencyBankDataHandler.cs" />
+    <Compile Include="PerformanceManagement\CompetencyGroupDataHandler.cs" />
+    <Compile Include="PerformanceManagement\CompetencyProfileDataHandler.cs" />
+    <Compile Include="PerformanceManagement\ActivateAssessmentDataHandler.cs" />
+    <Compile Include="PerformanceManagement\EmployeeAssessmentDashboardDataHandler.cs" />
+    <Compile Include="PerformanceManagement\EmployeeGoalDataHandler.cs" />
+    <Compile Include="PerformanceManagement\EmployeeGoalSelfAssessmentDataHandler.cs" />
+    <Compile Include="PerformanceManagement\EmployeemarksStandardizationDataHandler.cs" />
+    <Compile Include="PerformanceManagement\GoalAgreementDataHandler.cs" />
+    <Compile Include="PerformanceManagement\GoalGroupDataHandler.cs" />
+    <Compile Include="PerformanceManagement\PerformanceEvaluationDataHandler.cs" />
+    <Compile Include="PerformanceManagement\QuestionBankDataHandler.cs" />
+    <Compile Include="PerformanceManagement\SelfAssessmentProfileDataHandler.cs" />
+    <Compile Include="PerformanceManagement\SupervisorCompetencyAssessmentDataHandler.cs" />
+    <Compile Include="PerformanceManagement\SupervisorDashboardDataHandler.cs" />
+    <Compile Include="PerformanceManagement\SupervisorGoalAssessmentDataHandler.cs" />
+    <Compile Include="PerformanceManagement\SupervisorSelfAssessmentReviewDatahandler.cs" />
+    <Compile Include="PerformanceManagement\TaskDashboardDataHandler.cs" />
+    <Compile Include="PerformanceManagement\TaskDataHandler.cs" />
+    <Compile Include="PerformanceManagement\TaskExtentionDataHandler.cs" />
+    <Compile Include="PerformanceManagement\ProficiencySchemeDataHandler.cs" />
+    <Compile Include="PerformanceManagement\TaskProgressDataHandler.cs" />
+    <Compile Include="PerformanceManagement\UploadEmployeeGoalsDataHandler.cs" />
+    <Compile Include="PerformanceManagement\ViewEmployeeCompetencyProfileDataHandler.cs" />
+    <Compile Include="PerformanceManagement\ViewQuestionDataHandler.cs" />
+    <Compile Include="PerformanceManagement\ViewSelfAssessmentProfileDataHandler.cs" />
+    <Compile Include="PerformanceManagement\ViewTaskDetailsDataHandler.cs" />
+    <Compile Include="Property\DefaultPropertyDataHandler.cs" />
+    <Compile Include="Property\EmployeePropertyDetailsDataHandler.cs" />
+    <Compile Include="Property\PropertyCategoryDataHandler.cs" />
+    <Compile Include="Property\PropertyDetailsDataHandler.cs" />
+    <Compile Include="Property\PropertyDetailsSearchDataHandler.cs" />
+    <Compile Include="Property\ReturnedPropertyDataHandler.cs" />
+    <Compile Include="Property\ViewBenefitsDataHandler.cs" />
+    <Compile Include="Reminders\ReminderDataHandler.cs" />
+    <Compile Include="Reports\BranchReportPrivilagesDataHandler.cs" />
+    <Compile Include="Reports\EmployeeTransferReportDataHandler.cs" />
+    <Compile Include="Reports\InOutConfigurationReportDataHandler.cs" />
+    <Compile Include="Reports\LateAttendanceDataHandler.cs" />
+    <Compile Include="Reports\LeaveBalanceReportDataHandler.cs" />
+    <Compile Include="Reports\ReportDataHandler.cs" />
+    <Compile Include="Reports\TrainingNeedsReport.cs" />
+    <Compile Include="Roster\EmpRosterAssignmentDataHandler.cs" />
+    <Compile Include="Roster\RosterDataHandler.cs" />
+    <Compile Include="Roster\RosterInterchangeDataHandler.cs" />
+    <Compile Include="Salary\SalaryDataHandler.cs" />
+    <Compile Include="Salary\SalaryDetailDataHandler.cs" />
+    <Compile Include="TemplateDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\ActualExpencesDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\AddProgramesToTrainerDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\EmployeeSelfTrainigEvaluationDashboardDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\EmployeeSelfTrainingEvaluation_EssayDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\EssayQuestionDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\ExpectedExpenceDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\ExpectedExpenceDetails.cs" />
+    <Compile Include="TrainingAndDevelopment\ExpenceCategorDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\FinancialYearsDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\MCQDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\MultipleChoiceQuestionDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\PrePostEvaluationDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\ProgramEvaluationDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\ProgramEvaluationSearchDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\RatingQuestionAnswersDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\RatingQuestionDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\RatingSchemeDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\RequestTypeDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\TrainerCompetencyAreaDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\TrainerInformationDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\TrainingAttendanceDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\TrainingCategoryDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\TrainingDashboardDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\TrainingParticipantsDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\TrainingProgramDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\TrainingDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\TrainingRequestDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\TrainingInstituteDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\TrainingInstituteProgrameDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\TrainingLocationDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\TrainingRequestApproveDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\TrainingRequestofTrainingDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\TrainingScheduleDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\TrainingSearchDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\TrainingSubcategoryDataHandler.cs" />
+    <Compile Include="TrainingAndDevelopment\viewMCQDataHandler.cs" />
+    <Compile Include="Userlogin\EmailHandler.cs" />
+    <Compile Include="Userlogin\LoginHandler.cs" />
+    <Compile Include="MetaData\CompanyDataHandler.cs" />
+    <Compile Include="Userlogin\PasswordHandler.cs" />
+    <Compile Include="MetaData\DivisionHeadDatahandler.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="MetaData\SerialHandler.cs" />
+    <Compile Include="Userlogin\SessionHandler.cs" />
+    <Compile Include="UserAdministration\UserAdministrationHandler.cs" />
+    <Compile Include="Utility\UtilsDataHandler.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{10D87A64-5287-4674-B4DC-DF680BFE7C96}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ConnectionManager\ConnectionManager.csproj">
+      <Project>{D8125113-0E1D-4EF1-A9CA-C02643B41DCB}</Project>
+      <Name>ConnectionManager</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

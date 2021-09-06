@@ -1,0 +1,2 @@
+2016-11-25 13:50:32.1403|ERROR|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|Unable to connect to any of the specified MySQL hosts.
+2016-11-25 14:16:02.4840|ERROR|GroupHRIS.TrainingAndDevelopment.WebFrmTraingRequest|There is already an open DataReader associated with this Connection which must be closed first.

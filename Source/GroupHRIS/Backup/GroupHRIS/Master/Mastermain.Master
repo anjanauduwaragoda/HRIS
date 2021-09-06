@@ -1,0 +1,133 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Mastermain.master.cs"
+    Inherits="HRIS.Mastermain" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link rel="shortcut icon" href="../Images/Common/logo.ico" />
+    <title>EAP HRIS</title>
+    <link href="../Styles/StyleMaster.css" rel="stylesheet" type="text/css" />
+    <%--<link href="../Styles/StyleScroller.css" rel="stylesheet" type="text/css" />--%>
+    <link href="../Styles/StyleCommon.css" rel="stylesheet" type="text/css" />
+    <%--<script src="../Scripts/dw_paus_scroller.js" defer="defer" type="text/javascript"></script>--%>
+    <%--<script src="../Scripts/Gettime.js" defer="defer" type="text/javascript"></script>
+    <script src="../Scripts/floating-1.12.js" defer="defer" type="text/javascript"></script>--%>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <script language="javascript" type="text/javascript">
+        function openpopupReminder(file, window) {
+            childWindow = open(file, window, 'resizable=no,width=950,height=450,scrollbars=yes,top=120,left=200,status=yes');
+        }
+    </script>
+</head>
+<body id="MasterBody" runat="server">
+    <%--<script type="text/javascript">
+
+    floatingMenu.add('floatdiv',
+    {
+//        targetLeft: 0,
+        targetRight:10,
+        targetBottom: 10,
+//        targetTop: 0,
+        //centerX: true,
+        snap: true
+    });  
+</script>--%>
+    <%--<script type="text/javascript">
+        if (DYN_WEB.Scroll_Div.isSupported()) {
+            DYN_WEB.Event.add(window, 'load', function () {
+                var wndo = new DYN_WEB.Scroll_Div('wn', 'lyr');
+                var options = {
+                    axis: 'v',
+                    bRepeat: true,
+                    repeatId: 'rpt',
+                    dur: 800, // duration of glide-scroll
+                    bPauseResume: true,
+                    distance: 40, // distance of glide-scroll
+                    pauseDelay: 500,
+                    resumeDelay: 300
+                };
+                wndo.makePauseAuto(options);
+            });
+        }
+    </script>--%>
+    <form id="form1" runat="server">
+    <div>
+        <span class="sticky_span_Reminder" onclick="openpopupReminder('../ExtraOptions/Reminders.aspx')">
+            Reminders </span>
+    </div>
+    <table class="MasterHeading" style="z-index: 5000; position: fixed; background-image: url(/Images/HRISMain/bg.jpg);
+        background-repeat: repeat-x; height: 62px; margin-top: -69px; margin-left: -8px;">
+        <tr>
+            <td align="left" valign="top" class="MasterHeadingLeft">
+                <img src="/Images/MasterPage/logo.png" alt="" />
+            </td>
+            <td align="center" valign="top" class="MasterHeadingRight">
+                <asp:Label ID="lblmerqee" runat="server"></asp:Label>
+            </td>
+            <td align="right" valign="top" class="MasterHeadingRightLogout">
+                <table class="MasterHeadingRightLogoutTD">
+                    <tr>
+                        <td>
+                            &nbsp;
+                        </td>
+                        <td>
+                            <asp:Label ID="lblwelcome" runat="server" Font-Bold="True" ForeColor="#CCCCCC"></asp:Label>
+                        </td>
+                        <td>
+                            <asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="~/Images/Login/gotomain.png"
+                                PostBackUrl="~/Login/Hrismain.aspx" ToolTip="Home" />
+                            <asp:ImageButton ID="imgbtnlogout" runat="server" ImageUrl="~/Images/MasterPage/signout.png"
+                                OnClick="imgbtnlogout_Click" ToolTip="Sign out" />
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <div>
+        <table class="MasterBodyMain" style="margin-top: 69px;">
+            <tr>
+                <td class="MasterBodytree" align="left" valign="top">
+                    <asp:TreeView ID="trvAccess" runat="server" NodeWrap="True" ImageSet="Simple" NodeIndent="10">
+                        <HoverNodeStyle Font-Underline="false" ForeColor="White" />
+                        <LeafNodeStyle ForeColor="Aqua" />
+                        <NodeStyle Font-Names="Verdana" Font-Size="8pt" ForeColor="Black" HorizontalPadding="0px"
+                            NodeSpacing="0px" VerticalPadding="0px" />
+                        <ParentNodeStyle Font-Bold="False" />
+                        <RootNodeStyle ForeColor="Aqua" />
+                        <SelectedNodeStyle Font-Underline="false" ForeColor="#66FFFF" HorizontalPadding="0px"
+                            VerticalPadding="0px" />
+                    </asp:TreeView>
+                </td>
+                <td class="MasterBodyMainDetail" valign="top">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+        </table>
+        <table class="MasterFooter">
+            <tr>
+                <td align="center" valign="bottom" class="MasterFooterTD">
+                    <asp:Label ID="lblcopyright" runat="server" ForeColor="White" Font-Size="8pt"></asp:Label>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <%--<div id="floatdiv" style="  
+        position:absolute;  
+        background-image:url('/Images/Login/bgsummary.png');
+        background-repeat:no-repeat;
+        text-align:center;
+        width:160px;height:200px;top:10px;right:10px;  
+        z-index:100">
+
+        <asp:PlaceHolder ID="phusersummary" runat="server"></asp:PlaceHolder>
+        <br />
+        <asp:ImageButton ID="imgbtnuser" runat="server" />
+        <br />
+        <span id="tick2" style="text-align:center"></span>
+    </div>  --%>
+    </form>
+</body>
+</html>

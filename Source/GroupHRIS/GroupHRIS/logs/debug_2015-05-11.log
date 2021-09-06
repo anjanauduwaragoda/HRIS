@@ -1,0 +1,241 @@
+2015-05-11 08:04:51.6698|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:04:51.7010|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 08:04:52.1222|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 08:04:56.8647|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:04:57.9879|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:05:02.0751|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:18:10.0820|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:18:10.0820|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 08:18:10.1912|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 08:18:13.0616|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:18:15.3704|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:19:14.7597|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:19:14.7597|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 08:19:14.8689|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 08:19:16.2885|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:19:18.0981|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:19:20.2977|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:25:11.0043|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:25:11.0193|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 08:25:11.1403|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 08:25:13.0034|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:25:15.2095|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:25:17.4927|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:25:20.8499|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:25:20.8499|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 08:25:20.9729|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 08:25:22.7730|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:25:23.9480|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:25:25.8391|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:28:06.4426|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:28:06.4582|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 08:28:06.5518|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 08:28:49.1552|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:28:49.1712|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 08:28:49.2762|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 08:28:52.2264|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:29:01.0769|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:29:06.7092|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:29:06.7192|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|ddlCompany_SelectedIndexChanged()
+2015-05-11 08:29:06.7192|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDepartment() - companyId:CP16
+2015-05-11 08:29:06.8242|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDesignations() - companyID:CP16
+2015-05-11 08:29:09.6824|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:29:11.5025|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:29:13.6306|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:31:23.3644|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:31:23.3644|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 08:31:23.4795|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 08:31:28.4577|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:31:28.4577|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|ddlCompany_SelectedIndexChanged()
+2015-05-11 08:31:28.4607|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDepartment() - companyId:CP16
+2015-05-11 08:31:28.5567|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDesignations() - companyID:CP16
+2015-05-11 08:31:29.5768|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:31:30.8839|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:31:34.9391|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:32:37.3807|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:32:37.3807|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 08:32:37.5087|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 08:32:40.4279|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:32:40.4279|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|ddlCompany_SelectedIndexChanged()
+2015-05-11 08:32:40.4279|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDepartment() - companyId:CP16
+2015-05-11 08:32:40.5559|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDesignations() - companyID:CP16
+2015-05-11 08:32:42.0629|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:32:43.5690|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:32:45.4491|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:33:18.0220|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:33:18.0220|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 08:33:18.1380|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 08:33:21.0192|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:33:21.0192|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|ddlCompany_SelectedIndexChanged()
+2015-05-11 08:33:21.0192|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDepartment() - companyId:CP16
+2015-05-11 08:33:21.1392|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDesignations() - companyID:CP16
+2015-05-11 08:33:22.0152|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:33:23.4563|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 08:33:30.3957|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:08:26.5699|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:08:26.5759|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 09:08:26.5969|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 09:08:29.2740|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:08:29.2740|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|ddlCompany_SelectedIndexChanged()
+2015-05-11 09:08:29.2740|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDepartment() - companyId:CP16
+2015-05-11 09:08:29.4340|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDesignations() - companyID:CP16
+2015-05-11 09:08:30.6871|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:08:32.0982|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:08:33.5363|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:13:19.4323|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:13:19.4323|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 09:13:19.5203|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 09:13:21.3354|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:13:22.4455|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:13:23.3955|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:14:38.5768|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:14:38.5768|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 09:14:38.6708|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 09:14:40.4939|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:14:42.8311|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:15:12.9840|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:15:12.9840|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 09:15:13.1244|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 09:15:15.1681|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:15:18.3817|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:15:18.3817|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|ddlCompany_SelectedIndexChanged()
+2015-05-11 09:15:18.3817|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDepartment() - companyId:CP16
+2015-05-11 09:15:18.5377|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDesignations() - companyID:CP16
+2015-05-11 09:15:21.8761|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:15:23.8105|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:16:03.2161|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:16:03.2161|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 09:16:03.3409|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 09:16:07.1005|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:16:07.1005|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|ddlCompany_SelectedIndexChanged()
+2015-05-11 09:16:07.1005|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDepartment() - companyId:CP16
+2015-05-11 09:16:07.2409|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDesignations() - companyID:CP16
+2015-05-11 09:16:08.3329|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:16:10.8757|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:16:46.5374|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:16:46.5374|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 09:16:46.6934|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 09:16:48.2534|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:16:49.3454|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:16:50.3594|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:54:31.2202|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:54:31.2202|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 09:54:31.3432|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 09:54:33.0303|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:54:34.7034|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:54:36.7365|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:56:08.7803|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:56:08.7803|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 09:56:08.9363|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 09:56:10.4807|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 09:56:11.5259|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 11:16:23.9968|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 11:16:24.0118|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 11:16:24.3048|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 11:16:25.9729|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 11:16:27.8010|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 11:16:28.7031|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 11:24:09.5894|DEBUG|GroupHRIS.Roster.webFrmRoster|fillCompanies()
+2015-05-11 11:24:10.3383|DEBUG|GroupHRIS.Roster.webFrmRoster|fillRosterTypes()
+2015-05-11 11:28:27.5359|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 11:28:27.5515|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 11:28:27.7075|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 11:28:29.2519|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 11:28:30.7963|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 11:28:31.6231|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 14:33:38.7364|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 14:33:38.8114|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 14:33:39.0034|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 14:33:41.2356|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 14:33:43.2007|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 14:33:44.5648|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 14:34:59.5631|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 14:34:59.5631|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 14:34:59.6811|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 14:35:01.4242|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 14:35:02.6492|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 14:35:03.5053|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 14:37:46.1410|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 14:37:46.1410|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 14:37:46.1550|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 14:37:49.5332|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 14:37:51.6083|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 14:37:53.4234|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 14:40:40.5151|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 14:40:40.5151|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 14:40:40.5151|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 14:40:42.3091|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 14:40:44.1655|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 14:40:51.2947|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 14:41:00.8264|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 14:41:00.8264|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 14:41:01.1540|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 14:41:02.9324|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 14:41:04.4144|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 14:41:12.5420|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 16:48:22.7844|DEBUG|GroupHRIS.Employee.webFrmEmployee|IP:127.0.0.1webFrmEmployee : Page_Load
+2015-05-11 16:48:22.7964|DEBUG|GroupHRIS.Employee.webFrmEmployee|fillCompanies()
+2015-05-11 16:48:22.8774|DEBUG|GroupHRIS.Employee.webFrmEmployee|fillEmployeeStatus()
+2015-05-11 16:48:22.9194|DEBUG|GroupHRIS.Employee.webFrmEmployee|fillEmployeeType()
+2015-05-11 16:48:22.9194|DEBUG|GroupHRIS.Employee.webFrmEmployee|fillEmployeeRole()
+2015-05-11 16:48:22.9444|DEBUG|GroupHRIS.Employee.webFrmEmployee|fillEmployeeStatus()
+2015-05-11 17:18:13.9403|DEBUG|GroupHRIS.Employee.webFrmEmployee|IP:127.0.0.1webFrmEmployee : Page_Load
+2015-05-11 17:18:13.9403|DEBUG|GroupHRIS.Employee.webFrmEmployee|Session Expired
+2015-05-11 17:18:25.6948|DEBUG|GroupHRIS.Employee.webFrmEmployee|IP:127.0.0.1webFrmEmployee : Page_Load
+2015-05-11 17:18:25.6948|DEBUG|GroupHRIS.Employee.webFrmEmployee|fillCompanies()
+2015-05-11 17:18:25.9178|DEBUG|GroupHRIS.Employee.webFrmEmployee|fillEmployeeStatus()
+2015-05-11 17:18:26.1198|DEBUG|GroupHRIS.Employee.webFrmEmployee|fillEmployeeType()
+2015-05-11 17:18:26.2208|DEBUG|GroupHRIS.Employee.webFrmEmployee|fillEmployeeRole()
+2015-05-11 17:18:26.2648|DEBUG|GroupHRIS.Employee.webFrmEmployee|fillEmployeeStatus()
+2015-05-11 17:18:28.3359|DEBUG|GroupHRIS.Employee.webFrmEmployee|IP:127.0.0.1webFrmEmployee : Page_Load
+2015-05-11 17:18:30.6070|DEBUG|GroupHRIS.Employee.webFrmEmployee|IP:127.0.0.1webFrmEmployee : Page_Load
+2015-05-11 17:18:37.4584|DEBUG|GroupHRIS.Employee.webFrmEmployee|IP:127.0.0.1webFrmEmployee : Page_Load
+2015-05-11 17:18:39.8386|DEBUG|GroupHRIS.Employee.webFrmEmployee|IP:127.0.0.1webFrmEmployee : Page_Load
+2015-05-11 17:18:57.4006|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 17:18:57.4006|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 17:18:57.6116|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 17:19:07.7272|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 17:19:07.7272|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 17:19:07.8482|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 12:51:34.6392|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 12:51:34.6548|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 12:51:34.7640|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 12:51:41.2381|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 12:51:41.2381|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|ddlCompany_SelectedIndexChanged()
+2015-05-11 12:51:41.2381|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDepartment() - companyId:CP60
+2015-05-11 12:51:41.3629|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDesignations() - companyID:CP60
+2015-05-11 12:51:45.2005|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 12:51:46.2145|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 12:51:50.0989|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 12:51:50.0989|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 12:51:50.2237|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 12:51:51.8783|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 12:51:53.7659|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 12:51:54.6239|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 12:51:58.4771|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 12:51:58.4771|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 12:51:58.7111|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 12:52:00.4583|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 12:52:02.4083|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 12:52:03.8591|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 12:52:07.2287|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 12:52:07.2287|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 12:52:08.0867|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 12:52:10.5515|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 12:52:10.5515|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|ddlCompany_SelectedIndexChanged()
+2015-05-11 12:52:10.5515|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDepartment() - companyId:CP16
+2015-05-11 12:52:10.8947|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDesignations() - companyID:CP16
+2015-05-11 12:52:12.0803|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 12:52:14.8259|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 12:52:16.1987|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 12:52:16.9163|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 13:11:13.4864|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 13:11:13.5020|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillCompanies()
+2015-05-11 13:11:13.6268|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillEmployeeStatus():
+2015-05-11 13:11:18.8372|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 13:11:18.8372|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|ddlCompany_SelectedIndexChanged()
+2015-05-11 13:11:18.8372|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDepartment() - companyId:CP16
+2015-05-11 13:11:18.9464|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|fillDesignations() - companyID:CP16
+2015-05-11 13:11:20.6936|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 13:11:26.3097|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()
+2015-05-11 13:11:27.5889|DEBUG|GroupHRIS.Employee.webFrmEmployeeSearch|Page_Load()

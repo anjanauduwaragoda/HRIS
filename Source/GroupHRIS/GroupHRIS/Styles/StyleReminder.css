@@ -1,0 +1,53 @@
+﻿div#scroller
+{
+    width: auto;
+    height: 50px;
+    color: White;
+    text-align: justify;
+    padding:10px;
+    
+}
+
+div#wn
+{
+    position: relative;
+    width: auto;
+    height: 50px;
+    overflow: hidden;
+    text-align: justify;
+}
+
+div#wn div.block
+{
+    height: 50px;
+    text-align: justify;
+}
+
+div#wn div.block a img
+{
+    border: none;
+}
+
+div#wn div.block a:link, div#wn div.block a:visited, div#wn div.block a:hover
+{
+    color: #0F2F8D;
+    text-decoration: none;
+}
+
+.newsscrolle
+{
+    /*background-color:Silver;     border: 1px ridge;     border-radius: 0px;*/
+    color: Silver;
+    height: 180px;
+    vertical-align: top;
+    text-align:justify;
+}
+
+.newsscrolleNotice
+{
+    /*background-color:Silver;     border: 1px ridge;     border-radius: 0px;*/
+    color: Silver;
+    height: 180px;
+    vertical-align: top;
+    text-align:justify;
+}

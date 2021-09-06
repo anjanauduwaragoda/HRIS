@@ -1,0 +1,6 @@
+D:\SoftwareDevelopmentEnvironment\HRIS_2015_1\Source\GroupHRIS\Common\bin\Debug\Common.dll
+D:\SoftwareDevelopmentEnvironment\HRIS_2015_1\Source\GroupHRIS\Common\bin\Debug\Common.pdb
+D:\SoftwareDevelopmentEnvironment\HRIS_2015_1\Source\GroupHRIS\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\SoftwareDevelopmentEnvironment\HRIS_2015_1\Source\GroupHRIS\Common\obj\Debug\Common.dll
+D:\SoftwareDevelopmentEnvironment\HRIS_2015_1\Source\GroupHRIS\Common\obj\Debug\Common.pdb
+D:\SoftwareDevelopmentEnvironment\HRIS_2015_1\Source\GroupHRIS\Common\bin\Debug\NLog.dll

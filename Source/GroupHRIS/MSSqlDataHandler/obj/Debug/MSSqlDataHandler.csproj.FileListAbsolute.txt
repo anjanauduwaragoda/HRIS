@@ -1,0 +1,8 @@
+D:\SoftwareDevelopmentEnvironment\HRIS_2015_1\Source\GroupHRIS\MSSqlDataHandler\bin\Debug\MSSqlDataHandler.dll
+D:\SoftwareDevelopmentEnvironment\HRIS_2015_1\Source\GroupHRIS\MSSqlDataHandler\bin\Debug\MSSqlDataHandler.pdb
+D:\SoftwareDevelopmentEnvironment\HRIS_2015_1\Source\GroupHRIS\MSSqlDataHandler\bin\Debug\ConnectionManager.dll
+D:\SoftwareDevelopmentEnvironment\HRIS_2015_1\Source\GroupHRIS\MSSqlDataHandler\bin\Debug\MySql.Data.dll
+D:\SoftwareDevelopmentEnvironment\HRIS_2015_1\Source\GroupHRIS\MSSqlDataHandler\bin\Debug\ConnectionManager.pdb
+D:\SoftwareDevelopmentEnvironment\HRIS_2015_1\Source\GroupHRIS\MSSqlDataHandler\obj\Debug\MSSqlDataHandler.csprojResolveAssemblyReference.cache
+D:\SoftwareDevelopmentEnvironment\HRIS_2015_1\Source\GroupHRIS\MSSqlDataHandler\obj\Debug\MSSqlDataHandler.dll
+D:\SoftwareDevelopmentEnvironment\HRIS_2015_1\Source\GroupHRIS\MSSqlDataHandler\obj\Debug\MSSqlDataHandler.pdb

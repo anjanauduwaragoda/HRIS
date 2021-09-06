@@ -1,0 +1,7 @@
+D:\SoftwareDevelopmentEnvironment\HRIS_2015_1\Source\GroupHRIS\ConnectionManager\bin\Debug\ConnectionManager.dll
+D:\SoftwareDevelopmentEnvironment\HRIS_2015_1\Source\GroupHRIS\ConnectionManager\bin\Debug\ConnectionManager.pdb
+D:\SoftwareDevelopmentEnvironment\HRIS_2015_1\Source\GroupHRIS\ConnectionManager\bin\Debug\Common.dll
+D:\SoftwareDevelopmentEnvironment\HRIS_2015_1\Source\GroupHRIS\ConnectionManager\bin\Debug\Common.pdb
+D:\SoftwareDevelopmentEnvironment\HRIS_2015_1\Source\GroupHRIS\ConnectionManager\obj\Debug\ConnectionManager.csprojResolveAssemblyReference.cache
+D:\SoftwareDevelopmentEnvironment\HRIS_2015_1\Source\GroupHRIS\ConnectionManager\obj\Debug\ConnectionManager.dll
+D:\SoftwareDevelopmentEnvironment\HRIS_2015_1\Source\GroupHRIS\ConnectionManager\obj\Debug\ConnectionManager.pdb

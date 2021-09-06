@@ -1,0 +1,37 @@
+﻿.BodyClass
+{
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.headerBG
+{
+    width:100%;
+    
+    background: rgb(80, 80, 80);
+    background: -moz-linear-gradient(270deg, rgb(80, 80, 80) 0%, rgb(120, 120, 120) 100%);
+    background: -webkit-linear-gradient(270deg, rgb(80, 80, 80) 0%, rgb(120, 120, 120) 100%);
+    background: -o-linear-gradient(270deg, rgb(80, 80, 80) 0%, rgb(120, 120, 120) 100%);
+    background: -ms-linear-gradient(270deg, rgb(80, 80, 80) 0%, rgb(120, 120, 120) 100%);
+    background: linear-gradient(0deg, rgb(80, 80, 80) 0%, rgb(120, 120, 120) 100%);
+}
+    
+.backButton
+{
+    color: rgb(230, 230, 230);
+    padding: 7px;
+    text-shadow: 0px -1px 0px rgba(30, 30, 30, 0.8);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    background: rgb(75, 139, 208);
+    background: -moz-linear-gradient(90deg, rgb(75, 139, 208) 0%, rgb(48, 75, 255) 100%);
+    background: -webkit-linear-gradient(90deg, rgb(75, 139, 208) 0%, rgb(48, 75, 255) 100%);
+    background: -o-linear-gradient(90deg, rgb(75, 139, 208) 0%, rgb(48, 75, 255) 100%);
+    background: -ms-linear-gradient(90deg, rgb(75, 139, 208) 0%, rgb(48, 75, 255) 100%);
+    background: linear-gradient(0deg, rgb(75, 139, 208) 0%, rgb(48, 75, 255) 100%);
+    -webkit-box-shadow: 0px 0px 0px rgba(50, 50, 50, 0);
+    -moz-box-shadow: 0px 0px 0px rgba(50, 50, 50, 0);
+    box-shadow: 0px 0px 0px rgba(50, 50, 50, 0);
+}

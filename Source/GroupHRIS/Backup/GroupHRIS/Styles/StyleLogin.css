@@ -1,0 +1,117 @@
+﻿body 
+{
+    background-image:url('bg.jpg');
+    background-repeat:repeat-x;
+    background-color:#3A92C8;
+    font-size: .80em;
+    font-family:   "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+ 
+}
+
+.inputsLogin  { 
+    font-family:   "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    background: #f5f5f5; 
+    font-size: 0.9rem; 
+    border: 1px solid #999999;
+    padding: 3px 3px; 
+    width:245px; 
+    margin-bottom: 5px; 
+    clear: both; 
+    color :#006699;
+} 
+          
+    .inputsLogin:focus { 
+    background: #FFFFFF; 
+    border : 1px solid #00CCFF;
+    outline: none;    
+} 
+      
+.inputsLogin2  { 
+    font-family:   "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    background: #f5f5f5; 
+    font-size: 0.9rem; 
+    border: 1px solid #999999;
+    padding: 3px 3px; 
+    width:160px; 
+    margin-bottom: 5px; 
+    clear: both; 
+    color :#006699;
+}
+        
+    .inputsLogin2:focus { 
+    background: #FFFFFF; 
+    border : 1px solid #00CCFF;
+    outline: none;    
+} 
+ .HeadingTop
+{
+    font-family:   "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    table-layout:fixed;
+    height: 56px;
+    width:930px;
+    
+}
+        
+.MainBodyTB
+{
+    width: 930px;
+    font-family:   "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    table-layout:fixed;
+    margin: 0 auto; 
+    height:350px;
+}
+.MainBodyTBInner
+{
+    background: #FFFFFF; 
+    width: 750px;
+}
+        
+.MainBodyTBRightTD
+{
+    width: 250px;
+    background-color: #FFFFFF;
+    padding : 5px 0px 0px 0px;
+    /*background: linear-gradient(45deg, #CCCCCC , #FFFFFF  );*/
+}
+ .divMainBodyTBInner
+{
+border:1px solid #FFFFFF;
+border-radius:5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+-khtml-border-radius: 5px;
+width:880px;
+background-color: #FFFFFF;
+}       
+.MainBodyTBLeftTD
+{
+    width: 500px;
+    background-color: #FFFFFF;
+    padding : 5px 5px 5px 5px;
+    
+}
+        
+.bgclo
+{
+    background: linear-gradient(90deg, #3A92C8 , #005995  );
+    height:500px;
+}
+        
+.styleTDMiddleGap
+{
+    height:40px;
+    padding : 5px 5px 5px 5px;
+}
+.styletopleft
+{
+    width: 750px;
+    text-align :left;
+}
+ .FotterLogin
+{
+    font-family:   "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    table-layout:fixed;
+    padding : 15px 5px 5px 15px;
+    height: 50px;
+    width:930px;
+}

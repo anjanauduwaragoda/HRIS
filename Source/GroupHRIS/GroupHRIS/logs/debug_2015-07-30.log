@@ -1,0 +1,33 @@
+2015-07-30 14:51:45.8263|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|populateEmpProfile -> Employee: EP000035Date : 2015/07/01
+2015-07-30 14:53:07.1500|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|populateEmpProfile -> Employee: EP000035Date : 2015/06/01
+2015-07-30 14:53:30.0343|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|populateEmpProfile -> Employee: EP000035Date : 2015/06/01
+2015-07-30 14:53:31.7734|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|populateEmpProfile -> Employee: EP000035Date : 2015/06/01
+2015-07-30 14:54:37.2642|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|populateEmpProfile -> Employee: EP000035Date : 2015/06/01
+2015-07-30 15:40:23.4514|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|populateEmpProfile -> Employee: EP000035Date : 2015/06/01
+2015-07-30 15:42:44.7815|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|populateEmpProfile -> Employee: EP000035Date : 2015/06/01
+2015-07-30 16:11:08.4990|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|populateEmpProfile -> Employee: EP000035Date : 2015/06/01
+2015-07-30 16:15:29.7869|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|populateEmpProfile -> Employee: EP000035Date : 2015/06/01
+2015-07-30 16:18:40.5178|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|populateEmpProfile -> Employee: EP000035Date : 2015/06/01
+2015-07-30 16:28:05.9822|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|populateEmpProfile -> Employee: EP000035Date : 2015/06/01
+2015-07-30 16:30:45.8973|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|populateEmpProfile -> Employee: EP000035Date : 2015/06/01
+2015-07-30 16:32:46.5122|DEBUG|GroupHRIS.EmployeeProfile.EmployeeOnlineLeave|IP:127.0.0.1EmployeeOnlineLeave : Page_Load
+2015-07-30 16:32:46.5262|DEBUG|GroupHRIS.EmployeeProfile.EmployeeOnlineLeave|EmployeeOnlineLeave : createLeaveBucket()
+2015-07-30 16:32:47.4293|DEBUG|GroupHRIS.EmployeeProfile.EmployeeOnlineLeave|EmployeeOnlineLeave : fillHistory()
+2015-07-30 16:32:47.4503|DEBUG|GroupHRIS.EmployeeProfile.EmployeeOnlineLeave|EmployeeOnlineLeave : gvLeaveHistory_RowDataBound()
+2015-07-30 16:32:47.4503|DEBUG|GroupHRIS.EmployeeProfile.EmployeeOnlineLeave|EmployeeOnlineLeave : gvLeaveHistory_RowDataBound()
+2015-07-30 16:32:47.4503|DEBUG|GroupHRIS.EmployeeProfile.EmployeeOnlineLeave|EmployeeOnlineLeave : gvLeaveHistory_RowDataBound()
+2015-07-30 16:32:47.4503|DEBUG|GroupHRIS.EmployeeProfile.EmployeeOnlineLeave|EmployeeOnlineLeave : gvLeaveHistory_RowDataBound()
+2015-07-30 16:32:47.4503|DEBUG|GroupHRIS.EmployeeProfile.EmployeeOnlineLeave|EmployeeOnlineLeave : gvLeaveHistory_RowDataBound()
+2015-07-30 16:32:47.4503|DEBUG|GroupHRIS.EmployeeProfile.EmployeeOnlineLeave|EmployeeOnlineLeave : gvLeaveHistory_RowDataBound()
+2015-07-30 16:32:47.4503|DEBUG|GroupHRIS.EmployeeProfile.EmployeeOnlineLeave|EmployeeOnlineLeave : gvLeaveHistory_RowDataBound()
+2015-07-30 16:32:47.4503|DEBUG|GroupHRIS.EmployeeProfile.EmployeeOnlineLeave|EmployeeOnlineLeave : gvLeaveHistory_RowDataBound()
+2015-07-30 16:32:47.4833|DEBUG|GroupHRIS.EmployeeProfile.EmployeeOnlineLeave|EmployeeOnlineLeave : gvLeaveHistory_RowDataBound()
+2015-07-30 16:32:47.4833|DEBUG|GroupHRIS.EmployeeProfile.EmployeeOnlineLeave|EmployeeOnlineLeave : gvLeaveHistory_RowDataBound()
+2015-07-30 16:32:47.4833|DEBUG|GroupHRIS.EmployeeProfile.EmployeeOnlineLeave|EmployeeOnlineLeave : gvLeaveHistory_RowDataBound()
+2015-07-30 16:32:47.4833|DEBUG|GroupHRIS.EmployeeProfile.EmployeeOnlineLeave|EmployeeOnlineLeave : gvLeaveHistory_RowDataBound()
+2015-07-30 16:32:47.4833|DEBUG|GroupHRIS.EmployeeProfile.EmployeeOnlineLeave|EmployeeOnlineLeave : gvLeaveHistory_RowDataBound()
+2015-07-30 16:32:47.4833|DEBUG|GroupHRIS.EmployeeProfile.EmployeeOnlineLeave|EmployeeOnlineLeave : gvLeaveHistory_RowDataBound()
+2015-07-30 16:33:00.5190|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|populateEmpProfile -> Employee: EP000035Date : 2015/07/01
+2015-07-30 16:33:43.7035|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|populateEmpProfile -> Employee: EP000035Date : 2015/06/01
+2015-07-30 16:34:08.8089|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|populateEmpProfile -> Employee: EP000035Date : 2015/02/23
+2015-07-30 16:34:30.4571|DEBUG|DataHandler.Attendance.AttendanceSummaryHandler|populateEmpProfile -> Employee: EP000035Date : 2011/01/01

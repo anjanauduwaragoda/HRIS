@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="ReportMaster.master.cs" Inherits="GroupHRIS.Reports.ReportViewers.ReportMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link rel="shortcut icon" href="../../Images/Common/logo.ico" />
+    <title>EAP HRIS | REPORTS</title>
+    <link href="../../Styles/StyleMaster.css" rel="stylesheet" type="text/css" />
+    <link href="../../Styles/StyleCommon.css" rel="stylesheet" type="text/css" />
+    <link href="../../Styles/ReportMaster.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="headerBG" style="width:100%;">
+    <table class="MasterHeading" >
+            <tr>
+                <td align="left" valign="top" class="MasterHeadingLeft">
+                    <img src="/Images/MasterPage/logo.png" alt="" /></td>
+                <td align="center" valign="top" class="MasterHeadingRight">
+                    <asp:Label ID="lblmerqee" runat="server"></asp:Label>
+                </td>
+                <td align="right" valign="top" class="MasterHeadingRightLogout">
+                    <table class="MasterHeadingRightLogoutTD">
+                        <tr>
+                            <td>
+                                <asp:Button ID="btnBack" runat="server" CssClass="backButton" Text="Back to HRIS" onclick="btnBack_Click" />
+                            </td>
+                            <td>
+                                <asp:Label ID="lblwelcome" runat="server" Font-Bold="True" ForeColor="#CCCCCC"></asp:Label>
+                            </td>
+                            <td>
+                                <asp:ImageButton ID="lnkimagemain" runat="server" ImageUrl="~/Images/Login/gotomain.png"
+                                    PostBackUrl="~/Login/Hrismain.aspx" ToolTip="Home"  />
+                                <asp:ImageButton ID="imgbtnlogout" runat="server" ImageUrl="~/Images/MasterPage/signout.png"
+                                    OnClick="imgbtnlogout_Click" ToolTip="Sign out" />
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+        </div>
+    <br />
+    <div style="padding:5px;background-color:White;" class="BodyClass">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
